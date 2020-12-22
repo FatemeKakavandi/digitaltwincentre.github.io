@@ -38,13 +38,6 @@ date: 22 December 2020, 1400 CEST
 * Work on Simon's nested loop scenario verifier.
 * Met with JIm and Simon for formal methods and co-simulation.
 
-#### Casper and Kennth
-* Worked on abstract API for FMI2 in Maestro
-* Article with simon
-* Dicsussed DT framework bwteeen (Casper, Kenneth, Claudio)
-* Article with Frederik
-* Started adding FMI3 to the native part of Maestro
-
 #### Hugo Daniel Macedo
 * Looked at performance issues with Jonas and Fredrik
 * Focused on HUBCAP project tasks (article writing, call launching, webinar planning) 
@@ -64,6 +57,13 @@ date: 22 December 2020, 1400 CEST
   * Solving the issue that data has missing samples (from 1 sample, i.e. 2 ms, to multiple samples up to 0.3 s)
 * Robot Calibration:
   * Almost done when sampling issue is solved
+  
+#### Fateme Kakavandi
+* Meeting with Novo and other stackholders at SVM
+* Understanding ZPA process in different time intervals 
+* Loading second dataset with all measurements in pycharm 
+* changing dataset topics to Kafka topics 
+ 
 
 ## Sub-projects status
 
